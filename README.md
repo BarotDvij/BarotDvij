@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dvij
 
-# Building for the future. And for fun lol
+## Building for the future. And for fun lol
 
 <!--
 **BarotDvij/BarotDvij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
