@@ -1,4 +1,4 @@
-## Hello World (inhabiter)! I'm Dvij
+## Hello World (inhabitant)! I'm Dvij
 
 ## Building for the future. And for fun lol
 
