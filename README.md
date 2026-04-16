@@ -1,18 +1,15 @@
-![React](https://shields.io)
-
 # Hello World inhabitant! I'm Dvij.
-
 ### Building for the future. And for fun :)
 
-## -- TECH STACK --
+### -- TECH STACK --
 
-### - TOOLS + PLATFORMS - 
+#### - TOOLS + PLATFORMS - 
 Openrouter, Supabase, Google BigQuery, Modal, Vercel, AWS, GCP, Jupyter Notebook
 
-### - LANGUAGES - 
+#### - LANGUAGES - 
 Python, Java, JavaScript, TypeScript, SQL, R, HTML/CSS
 
-### - FRAMEWORKS + LIBRARIES -
+#### - FRAMEWORKS + LIBRARIES -
 Asyncio, Pandas, Numpy, TailwindCSS, Node.js, Next.js, React, FastAPI 
 
 
