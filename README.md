@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql)](https://skillicons.dev)
 
 #### - FRAMEWORKS + LIBRARIES -
-[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,tailwind,nodejs,nextjs,react,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,nextjs,react,fastapi)](https://skillicons.dev)
 - Asyncio, Pandas, Numpy, ggplot2, mlr3
 
 
