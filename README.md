@@ -7,7 +7,7 @@
 Openrouter, Supabase, Google BigQuery, Modal, Vercel, AWS, GCP, Jupyter Notebook
 
 #### - LANGUAGES - 
-Python, Java, JavaScript, TypeScript, SQL, R, HTML/CSS
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql)](https://skillicons.dev)
 
 #### - FRAMEWORKS + LIBRARIES -
 Asyncio, Pandas, Numpy, TailwindCSS, Node.js, Next.js, React, FastAPI 
