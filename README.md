@@ -4,13 +4,15 @@
 ### -- TECH STACK --
 
 #### - TOOLS + PLATFORMS - 
-Openrouter, Supabase, Google BigQuery, Modal, Vercel, AWS, GCP, Jupyter Notebook
+[![My Skills](https://skillicons.dev/icons?i=vercel,aws,gcp)](https://skillicons.dev)
+- Snowflake, Supabase, Google BigQuery, Modal, Openrouter
 
 #### - LANGUAGES - 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql)](https://skillicons.dev)
 
 #### - FRAMEWORKS + LIBRARIES -
-Asyncio, Pandas, Numpy, TailwindCSS, Node.js, Next.js, React, FastAPI 
+[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,tailwind,nodejs,nextjs,react,fastapi)](https://skillicons.dev)
+- Asyncio, Pandas, Numpy, TailwindCSS, Node.js, Next.js, React, FastAPI 
 
 
 <!--
