@@ -12,7 +12,7 @@
 
 #### - FRAMEWORKS + LIBRARIES -
 [![My Skills](https://skillicons.dev/icons?i=pandas,numpy,tailwind,nodejs,nextjs,react,fastapi)](https://skillicons.dev)
-- Asyncio, Pandas, Numpy, TailwindCSS, Node.js, Next.js, React, FastAPI 
+- Asyncio, Pandas, Numpy, ggplot2, mlr3
 
 
 <!--
