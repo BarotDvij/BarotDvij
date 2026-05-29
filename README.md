@@ -1,5 +1,5 @@
-# Hello World inhabitant! I'm Dvij.
-### Building for the future. And for fun :)
+# Hi, I'm Dvij.
+### I focus on building user-focused AI products and transforming messy data into pipelines that AI products can actually use.
 
 ### -- TECH STACK --
 
