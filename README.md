@@ -1,6 +1,6 @@
 # Hi, I'm Dvij.
-### I build user-focused AI products and transform messy data into pipelines that those products can rely on.
----
+#### I build user-focused AI products and transform messy data with pipelines those products can rely on.
+
 ## TECH STACK
 
 #### LANGUAGES
