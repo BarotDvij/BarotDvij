@@ -54,12 +54,6 @@
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) 
 
-### 📁 Projects 
-- <small>🥈 **2nd Place** @ **AOL Hackathon**: Built **Sahayak**, helping to keep Art of Living participants connected -- [Devpost](https://devpost.com/software/aol-hackathon-sahayak)</small>
-- <small>🥇 **1st Place** @ **Ignition Hacks**: Built **Urban Marble** in about 7 hours, an AI architectural explorer with 3D city views, camera-based building history, and AI-generated video tours -- [Devpost](https://devpost.com/software/urban-marble)</small>
-- <small>🥇 **1st Place** @ **Claude Builder Hackathon (UWaterloo)**: Built **CityScapes** in about 3 hours, a tool that finds the vacant lots where new green space matters most (React, Mapbox GL JS, Claude API) -- [Devpost](https://devpost.com/software/cityscape-b02jei)</small>
-- <small>🥈 **2nd Place** @ **Talent Tank Hackathon (San Francisco)**: Invited straight into the semi-finals the day after the CityScapes win and placed 2nd the next morning</small>
-
 <!--
 **BarotDvij/BarotDvij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
