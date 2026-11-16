@@ -1,22 +1,9 @@
 # Hi, I'm Dvij.
 #### I build user-focused AI products and transform messy data with pipelines those products can rely on.
 
-### 💼 Career
-- 🤖 **Technical Product Manager** @ **AltaML x Communitech** [Current]
-- 📥 **Software Engineer** @ **GenLedge** 
-- 🎮 **Product Manager** @ **SevenAfter Technologies**
-- 📡 **AI Engineer** @ **KnowIdea**
-- 📊 **Data Analytics Engineer** @ **Super.com**
-- 📱 **Project Manager** @ **Go Lime**
-
-### 🏆 Building + Learning
-
-- 🎓 Education: Bachelor's of Applied Science in **Management Engineering** at the **University of Waterloo** _(expected Apr 2028)_
-- 🥈 **2nd Place** @ **AOL Hackathon**: Built **Sahayak**, helping to keep Art of Living participants connected [Devpost](https://devpost.com/software/aol-hackathon-sahayak)
-- 🥇 **1st Place** @ **Claude Builder Hackathon (UWaterloo)**: Built **CityScapes** in about 3 hours, a tool that finds the vacant lots where new green space matters most (React, Mapbox GL JS, Claude API) [Devpost](https://devpost.com/software/cityscape-b02jei)
-- 🥇 **1st Place** @ **Ignition Hacks**: Built **Urban Marble** in about 7 hours, an AI architectural explorer with 3D city views, camera-based building history, and AI-generated video tours [Devpost](https://devpost.com/software/urban-marble)
-- 🥈 **2nd Place** @ **Talent Tank Hackathon (San Francisco)**: Invited straight into the semi-finals the day after the CityScapes win and placed 2nd the next morning
-
+### 🚀 Career
+- <small>🎓 **Education**: Bachelor's of Applied Science in **Management Engineering** at the **University of Waterloo** _(expected Apr 2028)_</small>
+- <small>💼 **Recent Experience**: 🤖 Technical Product Manager @ AltaML x Communitech [Current], 📊 Data Analytics Engineer @ Super.com, 📥 Software Engineer @ GenLedge, 🎮 Product Manager @ SevenAfter Technologies, 📡 AI Engineer @ KnowIdea</small>
 
 ### 🛠️ Toolbox
 
@@ -67,6 +54,12 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) 
+
+### 📁 Projects 
+- <small>🥈 **2nd Place** @ **AOL Hackathon**: Built **Sahayak**, helping to keep Art of Living participants connected -- [Devpost](https://devpost.com/software/aol-hackathon-sahayak)</small>
+- <small>🥇 **1st Place** @ **Ignition Hacks**: Built **Urban Marble** in about 7 hours, an AI architectural explorer with 3D city views, camera-based building history, and AI-generated video tours -- [Devpost](https://devpost.com/software/urban-marble)</small>
+- <small>🥇 **1st Place** @ **Claude Builder Hackathon (UWaterloo)**: Built **CityScapes** in about 3 hours, a tool that finds the vacant lots where new green space matters most (React, Mapbox GL JS, Claude API) -- [Devpost](https://devpost.com/software/cityscape-b02jei)</small>
+- <small>🥈 **2nd Place** @ **Talent Tank Hackathon (San Francisco)**: Invited straight into the semi-finals the day after the CityScapes win and placed 2nd the next morning</small>
 
 <!--
 **BarotDvij/BarotDvij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
