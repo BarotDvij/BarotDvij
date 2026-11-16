@@ -1,9 +1,26 @@
 # Hi, I'm Dvij.
 #### I build user-focused AI products and transform messy data with pipelines those products can rely on.
 
-## TECH STACK
+### 💼 Career
+- 🤖 **Technical Product Manager** @ **AltaML x Communitech** [Current]
+- 📥 **Software Engineer** @ **GenLedge** 
+- 🎮 **Product Manager** @ **SevenAfter Technologies**
+- 📡 **AI Engineer** @ **KnowIdea**
+- 📊 **Data Analytics Engineer** @ **Super.com**
+- 📱 **Project Manager** @ **Go Lime**
 
-#### LANGUAGES
+### 🏆 Building + Learning
+
+- 🎓 Education: Bachelor's of Applied Science in **Management Engineering** at the **University of Waterloo** _(expected Apr 2028)_
+- 🥈 **2nd Place** @ **AOL Hackathon**: Built **Sahayak**, helping to keep Art of Living participants connected [Devpost](https://devpost.com/software/aol-hackathon-sahayak)
+- 🥇 **1st Place** @ **Claude Builder Hackathon (UWaterloo)**: Built **CityScapes** in about 3 hours, a tool that finds the vacant lots where new green space matters most (React, Mapbox GL JS, Claude API) [Devpost](https://devpost.com/software/cityscape-b02jei)
+- 🥇 **1st Place** @ **Ignition Hacks**: Built **Urban Marble** in about 7 hours, an AI architectural explorer with 3D city views, camera-based building history, and AI-generated video tours [Devpost](https://devpost.com/software/urban-marble)
+- 🥈 **2nd Place** @ **Talent Tank Hackathon (San Francisco)**: Invited straight into the semi-finals the day after the CityScapes win and placed 2nd the next morning
+
+
+### 🛠️ Toolbox
+
+##### LANGUAGES
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-df6d1a?logo=MySQL&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -13,7 +30,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
 
-#### FRAMEWORKS + LIBRARIES
+##### FRAMEWORKS + LIBRARIES
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?logo=openrouter&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
@@ -32,8 +49,7 @@
 [![mlr3](https://img.shields.io/badge/mlr3-1d2c3f.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI%2BPGltYWdlIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgaHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCSUFBQUFTQ0FZQUFBQld6bzVYQUFBQUFYTlNSMElBcnM0YzZRQUFBQVJuUVUxQkFBQ3hqd3Y4WVFVQUFBQUpjRWhaY3dBQURzTUFBQTdEQWNkdnFHUUFBQUxVU1VSQlZEaFBsZE5MVHhOUkZBZHcvUUxHUkZFNnJ6NG9wZTNjbVU1cHFZVjUzT203UUtHdExVK244bjRGUVVRUWcwUVNRZUxLaFF1M3hvVmJGKzVOZEdsMGJlTE94SzlnM0Jqek54MENwTldBL2pjenVYUE83K1lrWjg2ZE95T012K3VTSUtkcnpoQzkyUHp0WDNPZUozUlJJT1kzVnpnRFhxSmZCWW5PTmhlZEdzYXZGVmpSK09SU1VoQmtFend4SU1nSnNDS0Z3NjkrdU1DRjg4MDlEUkVrdlpNbCtodVhuRUpiS0FNMnFNRVJVT0h3OTlqdnNWUUZ4YkZseE5KRFlJTGFhNVpvY2dQQWhaSXNKeG5QZVVKLzFaSHE4aW9tZHU3QkUwcUJ4UHVocUlOd0VoUERTNnVvdmxoQmRYNFYza2dPSERGKzhwTHg3QVFTalFOM0pHZVA0QlFwUm02dllXNS9COWIwQm5LMWFmUk96cUphVzhINHdqb3FHN2ZRTnpvSFhqVEFFNHA2M3dsRTlNZE9KV1ZEcktqQkUwcUN4UHFSSzAxajV0MDJGai91SWwyYWdKc2tJTVVLRUNRS1Z0UVBMMVpTRGREK0VXUmpRUjFNUU1YQThBS0t1MHNvN003RG10M0EyTW9kcUlVUk9EclU0OXBUb1VOTWd5QlRESlFXVUNqT1ExR0xXSDI2aC9HMWRUaDgvd0habUYrSHRibUJpZTB0c0g0Tllxd1A3WjJaNDdIT2hOaUFEamFnZ2ZQcktNOHRvN0s0QWlGSTBlSytoaXZ1T0JpZkJsNDZDeElOdE1WVDhIYW40ZXcwSWViN29KUUc3VWFsWElTeFBBNTVZQUJNaC9ZWFNOUU82Z2RjVUljN21rVDJ3UlF5MjVOSWJ0NjBuK243a3pEWExQajBERktiRThoc1QrR3F1L3RQaUNmR25yMUhvZ0Z2VHhyZEM4T0kxc3FJV0dYa0g4MGd1VldEWEM3QTA1TkU5dUVVRW5kcmFQVjAyMnZRc0VldGl0WWlTUFFKVCtnUFR5UURzMkxCdkc3QktJMURMWTBpTVdSQjdSK0ZXYlhRdXpTTHJud0ZuR2hDSVBRN1IraitNWFFVUnVycDRBbDk1ZS9xUlRCZVFFYzBpL1p3Qm9HdVBIelJMTVI0SDlxVkhEeEtHcHhFWDNKQjZtMDJHbkxaRzZkTVVIdlB5d2x3aE5aL1VQQ1NDVTR5d1lqR1c0ZFAxWnA3VG8xQTlCdThaSDV4aGROMTZETXZtaVBOTlVmNURYMTNjN2RheE9RVEFBQUFBRWxGVGtTdVFtQ0MiLz48L3N2Zz4%3D)](#)
 [![ggplot2](https://img.shields.io/badge/ggplot2-ffffff.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI%2BPGltYWdlIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgaHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCSUFBQUFTQ0FZQUFBQld6bzVYQUFBQUFYTlNSMElBcnM0YzZRQUFBQVJuUVUxQkFBQ3hqd3Y4WVFVQUFBQUpjRWhaY3dBQURzTUFBQTdEQWNkdnFHUUFBQU1MU1VSQlZEaFBqWkZkU0pOaEZNZGZzaXR2cEt0NVkyZ2hnamQxWlZidnpaQjNrbDVJRWwwcFlkaXRCR0tRWGtrM2I2WWszWXh5a2dpeVVuRks2blFzbmNzbTJkUVp1ZWxNemJVUEoxUHovZGplZmY3amVjU3BJNncvUEp6bmNNNzVQZWM4aDJIK0xWVlJVZEZEaG1FdVpRYitWeGNMQ3dzYldscGFBbE5UVTJocWF0ck96ODkvbEpsMHJuSnljdTdXMTljdld5d1dwRklwRUNVU0NVeE9UcUsydG5ZK096djdUbVpOcGtxcXE2dU4vZjM5aUNnS0JjUWlNaVJSaENoSzFKZGxHYjI5dmFpc3JEU1VYTSsvZHFhNnVMajRNc2R4WFoyZG5kamIyNk1Ga1VpRUFqWURCeEFwU01UaDRTR1NpVGlOazd5YnQ2cml1YmxYWHFWQkxNdStXRnBhT3VvZ3FpQXFId0tJWTJMSkMrYmVKQWJtQTBCQ1JpUWN4cWJIajZFeEs1YVhIV2hyMStOcHkwdWtRUnFONXJuUDUwTXNGa1hvdDRqMW9JeFYxd3BHVEZZMGRDM0ErR21SUGtMMHVGVUw1c0lOek5nV3FPLzFlazVBSE1meDJ6KzNhT0Rkb29EU054RjhuSGNoRVJFQUpQSEJaRUdyemdqejlBem12dGhoL3V5Z281SUZPSjNPMDZCeWZuM1RBNWR6QmFPV3J4aDFLUkREVWNpU0NLVGllRHR1QjFQNkJEYUgrNml0VklLQzR2RTRYQzdYQ1VqTmxmT3ZaM3o0NXQ1R0xDd0FVUkdTSkVJUUJJaUNBRUdVOE9OWGtCYVRyWkZGa0VOQVp6cFNsM0c4OWJzWHNTUVFsbVdFdzJGNlNMS2lLQWdFL0FqdDd0RDcvdjQrVmxkWHNiYTI5cmZST043bjJVSTBxc0JtczhGb05HSjZlanB0aDRhR01ESXlBcXZWaXA2ZUhyamRiaG9qb0RPamFUU2FOci9mVDdzd21VelE2WFFZSGg2R1ZxdkZ3TUFBOUhvOSt2cjZNRDQranNIQlFXckpBMFFiR3hzbklKWmxlYnZkVGdNT2h3TVRFeE9ZbloyRndXREEzTndjRGc0T0VBd0c0ZkY0RUFxRmFCZTd1N3MwbjNTWkJoVVVGS2pVYW5WN1IwZUhzck96UXhQSXA1SU95YjhRZSt6SFlqRWFKeUNlNTBXV1paK2xRYWRVWEZWVjlaNk1RVDZhU0pJa3VpMWlpY2k5dTdzYkZSVVZQUXpEWE0wRW5GRldWbFpaWFYzZHJObHNSaktacEFDeTZyR3hNZFRVMUpnWmhybWRXWE91OHZMeUhqUTNOMitRQlRRMk5qcFZLdFg5ekp4ai9RR01PTkxRa0dSbGZ3QUFBQUJKUlU1RXJrSmdnZz09Ii8%2BPC9zdmc%2B)](#)
 
-
-#### TOOLS + PLATFORMS 
+##### TOOLS + PLATFORMS 
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
